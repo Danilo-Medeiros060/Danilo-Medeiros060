@@ -3,7 +3,6 @@
 - 🔭 Atualmente exercendo o cargo de padawan (estágiario) em full stack. (VALEU EMBRAPA 🌱)
 - 🪐 Explorando as galáxias do PHP e JS.
 - 📫 Contate-me pelo e-mail: danilo.medeiros060@gmail.com
-- 🤔 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/Danilo-Medeiros060">
