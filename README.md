@@ -1,4 +1,4 @@
-### E aí, Danilo por aqui, mas pode chamar de danilin!
+### E aí. Danilo por aqui, mas pode chamar de danilin!
 
 - 🔭 Atualmente exercendo o cargo de padawan (estágiario) em full stack. (VALEU EMBRAPA 🌱)
 - 🪐 Explorando as galáxias do PHP e JS.
