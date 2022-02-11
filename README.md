@@ -1,6 +1,6 @@
 ### E aí. Danilo por aqui, mas pode chamar de danilin!
 
-- 🔭 Atualmente exercendo o cargo de padawan (estágiario) em full stack. (VALEU EMBRAPA 🌱)
+- 🔭 Atualmente exercendo o cargo de padawan (estágiario) em full stack. (🌱)
 - 🪐 Explorando as galáxias do PHP e JS.
 - 📫 Contate-me pelo e-mail: danilo.medeiros060@gmail.com
 
