@@ -1,8 +1,8 @@
 <p align="center"> ### E aí. Danilo por aqui, mas pode chamar de danilin! </p>
 
-<p align="center"> - 🔭 Atualmente exercendo o cargo de padawan (estágiario) em full stack (🌱)  ||  Membro da Fábrica de software da FAPRO ( back-end 🐱‍👤) </p>
-<p align="center"> - 🪐 Explorando as galáxias do PHP e JS. </p>
-<p align="center"> - 📫 Contate-me pelo e-mail: danilo.medeiros060@gmail.com </p>
+<p align="center">  🔭 Atualmente exercendo o cargo de padawan (estágiario) em full stack ||  Membro da Fábrica de software da FAPRO ( back-en ) </p>
+<p align="center">  🪐 Explorando as galáxias do PHP e JS. </p>
+<p align="center">  📫 Contate-me pelo e-mail: danilo.medeiros060@gmail.com </p>
 
 ###
 
