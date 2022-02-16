@@ -1,5 +1,5 @@
 ### E aí. Danilo por aqui, mas pode chamar de danilin!
-
+<center>
 - 🔭 Atualmente exercendo o cargo de padawan (estágiario) em full stack (🌱)  ||  Membro da Fábrica de software da FAPRO ( back-end 🐱‍👤)
 - 🪐 Explorando as galáxias do PHP e JS.
 - 📫 Contate-me pelo e-mail: danilo.medeiros060@gmail.com
@@ -32,3 +32,4 @@
   <a href = "mailto:danilo.medeiros060@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-medeiros-447775186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  </center>
