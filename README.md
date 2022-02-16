@@ -42,7 +42,7 @@
   
 
   
-  <h2 align="center"> 🐱‍👤 Profile Viwes 🐱‍👤 </h2>
+  <h2 align="center"> 🐱‍👤 Profile Views 🐱‍👤 </h2>
   <p align="center"> 
   <img alingn="center" src="https://profile-counter.glitch.me/Danilo-medeiros060/count.svg" />
   </p>
