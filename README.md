@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-medeiros060&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-  ##
+  
   
   <p align="center">
   <div style="display: inline_block"><br>
@@ -27,6 +27,9 @@
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4b/7f/25/4b7f256216e941399da50c0ddd582ab9.gif">
     
 </div>
+  
+  ##
+  
   </p>
   
   <p align="center">
