@@ -1,5 +1,5 @@
 <h1 align="center">  E aí. Danilo por aqui, mas pode chamar de danilin! </h1>
-
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4b/7f/25/4b7f256216e941399da50c0ddd582ab9.gif"> 
 <p align="center">  🔭 Atualmente exercendo o cargo de padawan (estágiario) em full stack ||  Membro da Fábrica de software da FAPRO ( back-en ) </p>
 <p align="center">  🪐 Explorando as galáxias do PHP e JS. </p>
 <p align="center">  📫 Contate-me pelo e-mail: danilo.medeiros060@gmail.com </p>
@@ -41,7 +41,8 @@
   
 
   
-  <h2> 🐱‍👤 Profile Viwes 🐱‍👤 </h2>
-  <img alingn="" src="https://profile-counter.glitch.me/Danilo-medeiros060/count.svg" />
-    
+  <h2 align="center"> 🐱‍👤 Profile Viwes 🐱‍👤 </h2>
+  <p align="center"> 
+  <img alingn="center" src="https://profile-counter.glitch.me/Danilo-medeiros060/count.svg" />
+  </p>
 
