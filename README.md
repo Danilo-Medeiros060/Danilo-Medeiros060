@@ -41,8 +41,8 @@
   
   <div>
   
-    <h2> Visualizações no perfil: </h2>
-  <img alingn="center" src="https://profile-counter.glitch.me/Danilo-medeiros060/count.svg" />
+  <h2> Visualizações no perfil: </h2>
+  <img alingn="" src="https://profile-counter.glitch.me/Danilo-medeiros060/count.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4b/7f/25/4b7f256216e941399da50c0ddd582ab9.gif">  
     
   </div>
