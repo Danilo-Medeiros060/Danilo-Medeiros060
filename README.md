@@ -24,7 +24,7 @@
     <img align="center" alt="Rafa-CSS" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"> 
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">  
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4b/7f/25/4b7f256216e941399da50c0ddd582ab9.gif">
+    
     
 </div>
   
@@ -39,5 +39,5 @@
   <a href="https://www.linkedin.com/in/danilo-medeiros-447775186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   </p>
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/4b/7f/25/4b7f256216e941399da50c0ddd582ab9.gif">
   <img alingn="center" src="https://profile-counter.glitch.me/Danilo-medeiros060/count.svg" />
