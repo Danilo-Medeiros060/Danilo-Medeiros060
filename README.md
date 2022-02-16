@@ -4,7 +4,7 @@
 <p align="center">  🪐 Explorando as galáxias do PHP e JS. </p>
 <p align="center">  📫 Contate-me pelo e-mail: danilo.medeiros060@gmail.com </p>
 
-###
+##
 
 <div align="center">
   <a href="https://github.com/Danilo-Medeiros060">
@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilo-medeiros060&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-  ###
+  ##
   
   <p align="center">
   <div style="display: inline_block"><br>
