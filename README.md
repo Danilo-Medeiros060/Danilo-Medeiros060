@@ -39,11 +39,9 @@
   
   ##
   
-  <div>
+
   
   <h2> 🐱‍👤 Profile Viwes 🐱‍👤 </h2>
   <img alingn="" src="https://profile-counter.glitch.me/Danilo-medeiros060/count.svg" />
     
-   
-    
-  </div>
+
